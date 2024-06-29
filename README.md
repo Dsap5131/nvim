@@ -1,6 +1,4 @@
 # nvim
 My Neovim Config
 
-Currently NOTHING :D
-
-
+Inspiration from: ThePrimeagen

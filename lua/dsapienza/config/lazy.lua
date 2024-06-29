@@ -15,9 +15,6 @@ vim.opt.rtp:prepend(lazypath)
 
 -- Setup lazy.nvim
 require("lazy").setup({
-    spec = {
-        -- import your plugins
-        { import = "plugins" },
-    },
+    spec = "dsapienza.plugins",
     checker = { enabled = true },
 })

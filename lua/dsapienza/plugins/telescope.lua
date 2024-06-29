@@ -15,5 +15,6 @@ return {
         end)
         vim.keymap.set('n', '<leader>gf', builtin.git_files, {})
         vim.keymap.set('n', '<leader>lg', builtin.live_grep, {})
+        vim.keymap.set('n', '<leader>bh', builtin.help_tags, {})
     end
 }

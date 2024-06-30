@@ -8,6 +8,7 @@ return {
                 ensure_installed = {
                     "python",
                     "lua",
+                    "markdown",
                 },
                 sync_install = false,
                 auto_install = true,

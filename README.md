@@ -3,6 +3,8 @@ My Neovim Config
 
 Requirements:
 1. [ripgrep](https://github.com/BurntSushi/ripgrep)
+2. A terminal that supports true color and undercurl:
+    - [wezterm](https://github.com/wez/wezterm) (Linux, Macos & Windows)
 
 TODO:
 1. Look into [cellular-automaton](https://github.com/Eandrju/cellular-automaton.nvim)

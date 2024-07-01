@@ -16,3 +16,4 @@ TODO:
 - Look into [undotree](https://github.com/mbbill/undotree)
 - Look into [zen-mode](https://github.com/folke/zen-mode.nvim)
 - fix linting
+- learn how to better utilize lsp

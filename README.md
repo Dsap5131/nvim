@@ -16,4 +16,4 @@ TODO:
 - Look into [trouble](https://github.com/folke/trouble.nvim)
 - Look into [undotree](https://github.com/mbbill/undotree)
 - Look into [zen-mode](https://github.com/folke/zen-mode.nvim)
-- Look into linting
+- fix linting

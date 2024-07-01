@@ -11,7 +11,6 @@ TODO:
 - Look into vim-be-good
 - Look into vim-apm
 - Look into harpoon
-- Look into LSP setup
 - Look into [LuaSnip](https://github.com/L3MON4D3/LuaSnip)
 - Look into [trouble](https://github.com/folke/trouble.nvim)
 - Look into [undotree](https://github.com/mbbill/undotree)

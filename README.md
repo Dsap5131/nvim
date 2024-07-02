@@ -7,12 +7,11 @@ Requirements:
     - [wezterm](https://github.com/wez/wezterm) (Linux, Macos & Windows)
 
 TODO:
-- learn how to better utilize lsp
+- Look into git tool
 - Look into [cellular-automaton](https://github.com/Eandrju/cellular-automaton.nvim)
 - Look into vim-be-good
 - Look into vim-apm
 - Look into harpoon
-- Look into [LuaSnip](https://github.com/L3MON4D3/LuaSnip)
 - Look into [trouble](https://github.com/folke/trouble.nvim)
 - Look into [undotree](https://github.com/mbbill/undotree)
 - Look into [zen-mode](https://github.com/folke/zen-mode.nvim)

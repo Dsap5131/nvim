@@ -12,7 +12,7 @@ Requirements:
 TODO:
 - Look into git tool 
     - [fugitive](https://github.com/tpope/vim-fugitive)
-- Look into vim-apm
+- Look into [dashboard-nvim](https://github.com/nvimdev/dashboard-nvim)
 - Look into harpoon
 - Look into [todo-comments](https://github.com/folke/todo-comments.nvim)
 - Look into [trouble](https://github.com/folke/trouble.nvim)

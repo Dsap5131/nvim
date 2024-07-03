@@ -10,7 +10,8 @@ Requirements:
 - Requires c compiler
 
 TODO:
-- Look into git tool
+- Look into git tool 
+    - [fugitive](https://github.com/tpope/vim-fugitive)
 - Look into vim-apm
 - Look into harpoon
 - Look into [todo-comments](https://github.com/folke/todo-comments.nvim)

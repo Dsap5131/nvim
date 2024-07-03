@@ -10,6 +10,7 @@ Requirements:
 - Requires c compiler
 
 TODO:
+- Look into [lazygit](https://github.com/jesseduffield/lazygit)
 - Look into [dashboard-nvim](https://github.com/nvimdev/dashboard-nvim)
 - Look into harpoon
 - Look into [todo-comments](https://github.com/folke/todo-comments.nvim)

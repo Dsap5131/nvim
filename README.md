@@ -9,6 +9,3 @@ Requirements:
 - Requires npm for treesitter
 - Requires c compiler
 - Requires [lazygit](https://github.com/jesseduffield/lazygit)
-
-TODO:
-- Learn how to use [trouble](https://github.com/folke/trouble.nvim)

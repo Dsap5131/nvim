@@ -11,8 +11,8 @@ Requirements:
 
 TODO:
 - Look into [todo-comments](https://github.com/folke/todo-comments.nvim)
-- Look into [undotree](https://github.com/mbbill/undotree)
 - Look into [zen-mode](https://github.com/folke/zen-mode.nvim)
+- Look into [undotree](https://github.com/mbbill/undotree)
 - Look into [trouble](https://github.com/folke/trouble.nvim)
 - Look into [lazygit](https://github.com/jesseduffield/lazygit)
 - Improve Dashboard

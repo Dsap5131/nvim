@@ -10,7 +10,6 @@ Requirements:
 - Requires c compiler
 
 TODO:
-- Look into harpoon
 - Look into [todo-comments](https://github.com/folke/todo-comments.nvim)
 - Look into [undotree](https://github.com/mbbill/undotree)
 - Look into [zen-mode](https://github.com/folke/zen-mode.nvim)

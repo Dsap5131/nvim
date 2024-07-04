@@ -11,9 +11,9 @@ Requirements:
 - Requires [lazygit](https://github.com/jesseduffield/lazygit)
 
 TODO:
-- Improve Dashboard
+- Improve Dashboard so that it shows recent projects
+- Add keybind to remove file from harpoon
 
 FUTURE:
-- Look into [undotree](https://github.com/mbbill/undotree)
 - Learn how to use [trouble](https://github.com/folke/trouble.nvim)
-
+- Look into [undotree](https://github.com/mbbill/undotree)

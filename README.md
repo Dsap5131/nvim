@@ -10,9 +10,10 @@ Requirements:
 - Requires c compiler
 
 TODO:
-- Look into [trouble](https://github.com/folke/trouble.nvim)
 - Look into [lazygit](https://github.com/jesseduffield/lazygit)
 - Improve Dashboard
 
 FUTURE:
 - Look into [undotree](https://github.com/mbbill/undotree)
+- Learn how to use [trouble](https://github.com/folke/trouble.nvim)
+

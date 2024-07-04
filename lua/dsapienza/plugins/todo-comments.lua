@@ -20,12 +20,12 @@ return {
         )
         vim.keymap.set(
             "n",
-            "tt",
+            "<leader>td",
             "<cmd>TodoTelescope<cr>"
         )
         vim.keymap.set(
             "n",
-            "tq",
+            "<leader>TD",
             "<cmd>TodoQuickFix<cr>"
         )
     end,

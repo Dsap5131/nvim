@@ -8,9 +8,9 @@ Requirements:
 - Requires pylint 
 - Requires npm for treesitter
 - Requires c compiler
+- Requires [lazygit](https://github.com/jesseduffield/lazygit)
 
 TODO:
-- Look into [lazygit](https://github.com/jesseduffield/lazygit)
 - Improve Dashboard
 
 FUTURE:

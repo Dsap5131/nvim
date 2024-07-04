@@ -14,10 +14,24 @@ return {
             logo = string.rep("\n", 8) .. logo .. "\n\n"
 
             local opts = {
-                theme = "doom",
+                theme = "hyper",
                 config = {
                     header = vim.split(logo, "\n"),
-                    center = {
+                    packages = { enable = false },
+                    project = {
+                        enable = true,
+                        limit = 8,
+                        icon = DashboardProjectIcon,
+                        label = 'Recent Projects',
+                        action = 'Telescope find_files cwd='
+                    },
+                    mru = {
+                        limit = 10,
+                        icon = DashboardMruIcon,
+                        label = 'Recent Files',
+                        cwd_only = false
+                    },
+                    shortcut = {
                         {
                             action = 'Telescope find_files',
                             desc = " Find Files",
@@ -44,6 +58,7 @@ return {
                         return { "⚡ Neovim loaded " .. stats.loaded .. "/" .. stats.count .. "plugins in " .. ms .. "ms" }
                     end,
                 },
+                hide = { statusline = false },
             }
             return opts
         end,

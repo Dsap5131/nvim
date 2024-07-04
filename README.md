@@ -11,7 +11,6 @@ Requirements:
 - Requires [lazygit](https://github.com/jesseduffield/lazygit)
 
 TODO:
-- Improve Dashboard so that it shows recent projects
 
 FUTURE:
 - Learn how to use [trouble](https://github.com/folke/trouble.nvim)

@@ -11,7 +11,5 @@ Requirements:
 - Requires [lazygit](https://github.com/jesseduffield/lazygit)
 
 TODO:
-
-FUTURE:
 - Learn how to use [trouble](https://github.com/folke/trouble.nvim)
 - Look into [undotree](https://github.com/mbbill/undotree)

@@ -19,6 +19,12 @@ return {
                     header = vim.split(logo, "\n"),
                     center = {
                         {
+                            action = 'Telescope find_files',
+                            desc = " Find Files",
+                            icon = " ",
+                            key = "f"
+                        },
+                        {
                             action = "Lazy",
                             desc = " Lazy",
                             icon = "󰒲 ",

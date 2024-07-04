@@ -10,7 +10,6 @@ Requirements:
 - Requires c compiler
 
 TODO:
-- Look into [zen-mode](https://github.com/folke/zen-mode.nvim)
 - Look into [undotree](https://github.com/mbbill/undotree)
 - Look into [trouble](https://github.com/folke/trouble.nvim)
 - Look into [lazygit](https://github.com/jesseduffield/lazygit)

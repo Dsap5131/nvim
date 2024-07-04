@@ -12,7 +12,6 @@ Requirements:
 
 TODO:
 - Improve Dashboard so that it shows recent projects
-- Add keybind to remove file from harpoon
 
 FUTURE:
 - Learn how to use [trouble](https://github.com/folke/trouble.nvim)

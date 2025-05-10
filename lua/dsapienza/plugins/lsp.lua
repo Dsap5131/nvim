@@ -11,7 +11,7 @@ return {
                 ensure_installed = {
                     "lua_ls",
                     "pyright",
-                    "rust-analyzer"
+                    "rust_analyzer"
                 },
                 handlers = {
                     function(server_name)

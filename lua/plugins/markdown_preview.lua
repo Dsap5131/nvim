@@ -7,7 +7,7 @@ return {
             "MarkdownPreviewStop"
         },
         ft = { "markdown" },
-        build = function() vim.fn["mkdp#util#install"]() end,
+        build = "cd app && yarn install",
         config = function()
             vim.keymap.set("n", "<leader>mp", "<Plug>MarkdownPreview")
             vim.keymap.set("n", "<leader>mps", "<Plug>MarkdownPreviewStop")

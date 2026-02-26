@@ -2,7 +2,7 @@
 My Neovim Config
 
 Requirements:
-- Requires neovim 0.10
+- Requires neovim 0.11.6
 - [ripgrep](https://github.com/BurntSushi/ripgrep)
 - A terminal that supports true color and undercurl:
     - [wezterm](https://github.com/wez/wezterm) (Linux, Macos & Windows)

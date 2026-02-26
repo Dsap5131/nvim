@@ -1,27 +1,29 @@
 return {
-    { "mason-org/mason.nvim",           version = "^1.0.0" },
-    { "mason-org/mason-lspconfig.nvim", version = "^1.0.0" },
+    { "mason-org/mason.nvim" },
+    { 
+        "mason-org/mason-lspconfig.nvim",
+        opts = {
+            ensure_installed = { 
+                "lua_ls",
+                "pyright",
+                "rust_analyzer" 
+            },
+        },
+        dependencies = {
+            { "mason-org/mason.nvim", opts={} },
+            "neovim/nvim-lspconfig"
+        },
+    },
     {
         "neovim/nvim-lspconfig",
-        dependencies = {
-            "williamboman/mason.nvim",
-            "williamboman/mason-lspconfig.nvim",
-        },
         config = function()
-            require("mason").setup()
-            require("mason-lspconfig").setup({
-                ensure_installed = {
-                    "lua_ls",
-                    "pyright",
-                    "rust_analyzer"
-                },
-                handlers = {
-                    function(server_name)
-                        require("lspconfig")[server_name].setup {}
-                    end,
-                }
+            vim.lsp.config("*", {})
+            vim.lsp.enable({
+                "lua_ls",
+                "pyright",
+                "rust_analyzer"
             })
-        end,
+        end
     },
     {
         "hrsh7th/nvim-cmp",

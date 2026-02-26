@@ -3,6 +3,7 @@ My Neovim Config
 
 Things I want to try:
 - add claudecode.nvim
+- add codecompanion.nvim
 
 Requirements:
 - Requires neovim 0.11.6

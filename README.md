@@ -1,6 +1,9 @@
 # nvim
 My Neovim Config
 
+Things I want to try:
+- add claudecode.nvim
+
 Requirements:
 - Requires neovim 0.11.6
 - [ripgrep](https://github.com/BurntSushi/ripgrep)

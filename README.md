@@ -2,8 +2,8 @@
 My Neovim Config
 
 Things I want to try:
-- add claudecode.nvim
-- add codecompanion.nvim
+- add avante.nvim
+- get codecompanion.nvim setup with enterprise subscriptions or amazon bedrock
 
 Requirements:
 - Requires neovim 0.11.6

@@ -5,7 +5,6 @@ Things I want to try:
 - add avante.nvim
 - get codecompanion.nvim setup with enterprise subscriptions or amazon bedrock
 - primeagen 99
-- persistent claude cost tracker, like tok
 
 Requirements:
 - Requires neovim 0.11.6

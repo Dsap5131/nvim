@@ -6,7 +6,10 @@ return {
             ensure_installed = { 
                 "lua_ls",
                 "pyright",
-                "rust_analyzer" 
+                "rust_analyzer",
+                'html', 
+                'cssls', 
+                'ts_ls'
             },
         },
         dependencies = {
@@ -21,7 +24,10 @@ return {
             vim.lsp.enable({
                 "lua_ls",
                 "pyright",
-                "rust_analyzer"
+                "rust_analyzer",
+                'html', 
+                'cssls', 
+                'ts_ls'
             })
         end
     },
